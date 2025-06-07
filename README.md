@@ -52,7 +52,7 @@
 
 ---
 
-## 🧩 Troubleshooting & Cyber Passion
+## 🧬 Troubleshooting & Cyber Passion
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=1E90FF&width=750&lines=🔍+Debugging+complex+systems...;🧠+Finding+root+causes+and+fixing+them;🔧+Solving+real-world+network+issues;🔐+Learning+by+breaking+and+rebuilding" alt="Animated Troubleshooting Banner" />
