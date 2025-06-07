@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=flat" />
   <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Metasploit-EFEFEF?style=flat&logo=metasploit&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
@@ -43,7 +43,7 @@
 ## 💻 Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-EFEFEF?style=flat&logo=apple&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
@@ -55,7 +55,7 @@
 ## 🧩 Troubleshooting & Cyber Passion
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&height=60&lines=🔍+Debugging+complex+systems...;🧠+Finding+root+causes+and+fixing+them;🔧+Using+tools+to+solve+real-world+network+problems;🔐+Breaking+into+systems+to+learn+how+to+protect+them" alt="Troubleshooting animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=1E90FF&width=750&lines=🔍+Debugging+complex+systems...;🧠+Finding+root+causes+and+fixing+them;🔧+Solving+real-world+network+issues;🔐+Learning+by+breaking+and+rebuilding" alt="Animated Troubleshooting Banner" />
 </p>
 
 ---
